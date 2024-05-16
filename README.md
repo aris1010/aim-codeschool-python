@@ -1,1 +1,2 @@
-# aim-codeschool-python
+# Code School
+# Python
